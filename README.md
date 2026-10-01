@@ -1,213 +1,210 @@
-# 👋 Olá, eu sou F3060FOXY | こんにちは | 你好
+# 👋 F3060FOXY
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:00D9FF&height=200&section=header&text=F3060FOXY&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20|%20Creator%20|%20Learner&descSize=20&descAlignY=60" alt="Banner do perfil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:00D9FF&height=200&section=header&text=F3060FOXY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Developer%20%7C%20Creator%20%7C%20Learner&descSize=20&descAlignY=60" alt="Banner do perfil" />
 </div>
 
 <div align="center">
   <a href="https://github.com/F3060FOXY">
     <img src="https://komarev.com/ghpvc/?username=F3060FOXY&style=for-the-badge&color=6E40C9" alt="Visualizações do perfil" />
   </a>
-  <br/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status ativo" />
   <img src="https://img.shields.io/github/followers/F3060FOXY?style=for-the-badge&color=00D9FF" alt="Seguidores" />
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
 </div>
 
----
-
-## 🌐 Escolha seu idioma | 言語を選択 | 选择语言
-
-- [🇧🇷 Português](#português)
-- [🇯🇵 日本語](#日本語)
-- [🇨🇳 中文](#中文)
-- [🇬🇧 English](#english)
+> Developer • Creator • Learner
+>
+> Building ideas, automating workflows, and continuously improving every day.
 
 ---
 
-<a name="português"></a>
+## 🌐 Language / 言語 / 语言
+
+- [🇧🇷 Português](#-português)
+- [🇯🇵 日本語](#-日本語)
+- [🇨🇳 中文](#-中文)
+- [🇬🇧 English](#-english)
+
+---
+
 ## 🇧🇷 Português
 
 ### Sobre mim
 
-- 👨‍💻 Desenvolvedor apaixonado por tecnologia e inovação
-- 🌱 Sempre aprendendo e explorando novas tecnologias
-- 💡 Criando projetos interessantes e compartilhando conhecimento
-- 🎯 Focado em desenvolvimento de qualidade
-- 🚀 Contribuindo para a comunidade open source
-- 📫 Conecte-se comigo no [GitHub](https://github.com/F3060FOXY)
+- 👨‍💻 Desenvolvedor apaixonado por tecnologia, automação e inovação
+- 🌱 Sempre aprendendo e explorando novas ferramentas e ideias
+- 🚀 Interesse em criar projetos úteis, bem estruturados e com impacto real
+- 💡 Gosto de transformar conceitos em soluções práticas
+- 📫 Disponível para colaborações, projetos e conversas sobre tecnologia
 
-### Minhas Competências
+### Stack principal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,python,javascript,html,css,nodejs" alt="Tecnologias" />
 </div>
 
+### Projetos em destaque
+
+- 🔧 Repositórios pessoais com foco em automação, desenvolvimento e experimentação
+- 🧠 Projetos voltados para aprendizado, produtividade e produtividade técnica
+- 🌍 Interesse crescente em tecnologias web, programação e comunidades open source
+
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=F3060FOXY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars" alt="Estatísticas" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3060FOXY&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens" />
-</div>
-
-### Atividade Recente
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=F3060FOXY&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=F3060FOXY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3060FOXY&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ### Interesses
 
-- 💻 Desenvolvimento Full Stack
-- 🤖 Inteligência Artificial & Machine Learning
-- 🌐 Web Technologies
-- 📱 Desenvolvimento Mobile
-- ☁️ Cloud Computing
+- 💻 Full-stack development
+- 🤖 AI & automation
+- ☁️ Cloud and DevOps
+- 📱 Web and app experimentation
+- 🔐 Security and best practices
 
 ---
 
-<a name="日本語"></a>
 ## 🇯🇵 日本語
 
-### 私について
+### 自己紹介
 
-- 👨‍💻 テクノロジーとイノベーションに情熱を持つ開発者
-- 🌱 常に新しい技術を学んで探索しています
-- 💡 興味深いプロジェクトを作成し、知識を共有しています
-- 🎯 高品質な開発に焦点を当てている
-- 🚀 オープンソースコミュニティに貢献中
-- 📫 [GitHub](https://github.com/F3060FOXY)で接続してください
+- 👨‍💻 テクノロジー、オートメーション、イノベーションに情熱を持つ開発者
+- 🌱 常に新しい技術やアイデアを学び、試しています
+- 🚀 実用的で役立つプロジェクトを作ることに興味があります
+- 💡 概念を実際の解決策に変えることが好きです
+- 📫 コラボレーションや技術の話し合いを歓迎します
 
-### スキルと技術
+### 主な技術
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,python,javascript,html,css,nodejs" alt="技術" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,python,javascript,html,css,nodejs" alt="技術スタック" />
 </div>
+
+### 注目プロジェクト
+
+- 🔧 自動化、開発、実験に重点を置いた個人リポジトリ
+- 🧠 学習、効率化、技術的な生産性を重視したプロジェクト
+- 🌍 Web技術、プログラミング、オープンソースコミュニティに関心があります
 
 ### GitHub統計
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=F3060FOXY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars" alt="統計" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3060FOXY&layout=compact&theme=tokyonight&hide_border=true" alt="言語" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=F3060FOXY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars" alt="GitHub統計" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3060FOXY&layout=compact&theme=tokyonight&hide_border=true" alt="使用言語" />
 </div>
 
-### 最近のアクティビティ
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=F3060FOXY&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-### 関心事項
+### 興味分野
 
 - 💻 フルスタック開発
-- 🤖 人工知能と機械学習
-- 🌐 Webテクノロジー
-- 📱 モバイル開発
-- ☁️ クラウドコンピューティング
+- 🤖 AIと自動化
+- ☁️ クラウドとDevOps
+- 📱 Webとアプリの実験
+- 🔐 セキュリティとベストプラクティス
 
 ---
 
-<a name="中文"></a>
 ## 🇨🇳 中文
 
 ### 关于我
 
-- 👨‍💻 对科技和创新充满热情的开发者
-- 🌱 不断学习和探索新技术
-- 💡 创建有趣的项目并分享知识
-- 🎯 专注于高质量开发
-- 🚀 为开源社区做贡献
-- 📫 在[GitHub](https://github.com/F3060FOXY)上与我连接
+- 👨‍💻 热衷于技术、自动化和创新的开发者
+- 🌱 持续学习和探索新工具、新想法
+- 🚀 对创建有用、结构清晰且有实际影响的项目很感兴趣
+- 💡 喜欢把想法转化为实用解决方案
+- 📫 欢迎合作、项目交流和技术讨论
 
-### 技能和技术
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,python,javascript,html,css,nodejs" alt="技术" />
-</div>
-
-### GitHub统计
+### 主要技术栈
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=F3060FOXY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars" alt="统计" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3060FOXY&layout=compact&theme=tokyonight&hide_border=true" alt="语言" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,python,javascript,html,css,nodejs" alt="技术栈" />
 </div>
 
-### 最近活动
+### 亮点项目
+
+- 🔧 聚焦自动化、开发和实验的个人仓库
+- 🧠 围绕学习、效率提升和技术生产力构建的项目
+- 🌍 对 Web 技术、编程和开源社区保持浓厚兴趣
+
+### GitHub 统计
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=F3060FOXY&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=F3060FOXY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars" alt="GitHub统计" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3060FOXY&layout=compact&theme=tokyonight&hide_border=true" alt="使用语言" />
 </div>
 
-### 兴趣爱好
+### 兴趣方向
 
 - 💻 全栈开发
-- 🤖 人工智能和机器学习
-- 🌐 Web技术
-- 📱 移动开发
-- ☁️ 云计算
+- 🤖 AI与自动化
+- ☁️ 云计算与 DevOps
+- 📱 Web与应用实验
+- 🔐 安全与最佳实践
 
 ---
 
-<a name="english"></a>
 ## 🇬🇧 English
 
-### About Me
+### About me
 
-- 👨‍💻 Developer passionate about technology and innovation
-- 🌱 Always learning and exploring new technologies
-- 💡 Creating interesting projects and sharing knowledge
-- 🎯 Focused on high-quality development
-- 🚀 Contributing to the open source community
-- 📫 Connect with me on [GitHub](https://github.com/F3060FOXY)
+- 👨‍💻 Developer passionate about technology, automation, and innovation
+- 🌱 Constantly learning and exploring new tools and ideas
+- 🚀 Interested in building useful, well-structured projects with real impact
+- 💡 Enjoy turning concepts into practical solutions
+- 📫 Open to collaboration, projects, and meaningful technical conversations
 
-### Skills & Technologies
+### Core stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,python,javascript,html,css,nodejs" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,python,javascript,html,css,nodejs" alt="Technology stack" />
 </div>
 
-### GitHub Statistics
+### Featured work
+
+- 🔧 Personal repositories focused on automation, development, and experimentation
+- 🧠 Projects centered on learning, productivity, and technical growth
+- 🌍 Strong interest in web technologies, programming, and open source communities
+
+### GitHub stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=F3060FOXY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars" alt="Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3060FOXY&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-</div>
-
-### Recent Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=F3060FOXY&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=F3060FOXY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F3060FOXY&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </div>
 
 ### Interests
 
-- 💻 Full Stack Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Web Technologies
-- 📱 Mobile Development
-- ☁️ Cloud Computing
+- 💻 Full-stack development
+- 🤖 AI and automation
+- ☁️ Cloud and DevOps
+- 📱 Web and app experimentation
+- 🔐 Security and best practices
 
 ---
 
-## 📊 Contribuições
+## 📊 Atividade recente
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F3060FOXY&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Gráfico de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=F3060FOXY&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🔗 Conecte-se Comigo | つながろう | 与我联系
+## 🔗 Conecte-se comigo
 
 <div align="center">
   <a href="https://github.com/F3060FOXY">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
+> Open to collaborations, projects, and ideas worth building.
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:00D9FF&height=100&section=footer&text=Thank%20You!%20ありがとう！谢谢！&fontSize=20&fontColor=ffffff" alt="Footer" />
-  <br/>
-  <i>⭐ Se você gostou, deixe uma estrela! | ⭐星をつけてくれたら嬉しいです！| ⭐如果你喜欢，请给个星星！</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:00D9FF&height=100&section=footer&text=Thanks%20for%20visiting!%20%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86%20%E6%84%9F%E8%B0%A2%E9%87%88!&fontSize=18&fontColor=ffffff" alt="Footer" />
+  <br />
+  <i>⭐ Se você gostou, pode deixar uma estrela no repositório.</i>
 </div>
